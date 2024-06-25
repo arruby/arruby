@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arruby
 - 👀 I’m interested in Web Development and UI/UX Design
 - 🌱 I’m currently learning Codeigniter 4
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
   IG : @arruby_
   Twitter : @_arruby
